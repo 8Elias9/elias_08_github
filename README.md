@@ -1,2 +1,2 @@
-# elias_08_github
-Primeiro projeto de código sobre git/github
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para o Desafio do Projeto
